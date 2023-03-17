@@ -4,8 +4,6 @@ Solving the first level of Mario using a Genetic Algorithm and the OpenAI Gym li
 
 Documentation: https://pypi.org/project/gym-super-mario-bros/
 
-![alt text](https://github.com/lukazmartin/Mario-GeneticAlgorithm/blob/main/logo_mario.png?raw=true)
-
 The steps for the genetic algorithm are:
 
   1. Create population
@@ -17,3 +15,5 @@ The steps for the genetic algorithm are:
   4. Evaluate population (fitness function)
   
   5. Select best individual(return to point 1 if needed)
+
+![alt text](https://github.com/lukazmartin/Mario-GeneticAlgorithm/blob/main/logo_mario.png?raw=true)
